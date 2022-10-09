@@ -7,6 +7,8 @@ Adaptive STR controller for a non minimum phase system
 - part c: indirect STR with pole-zero cancellation
 - part d: direct STR with pole-zero cancellation
 
+The project was submitted as homework for the adaptive control class-2022
+
 
 ## Built With
 
