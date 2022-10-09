@@ -1,6 +1,7 @@
 # STR-minimum-phase-system
 Adaptive STR controller for a non minimum phase system
 
+- diophantin equation is solved using matlab's parametric solvers
 - part a: indirect STR without pole-zero cancellation
 - part b: direct STR without pole-zero cancellation
 - part c: indirect STR with pole-zero cancellation
